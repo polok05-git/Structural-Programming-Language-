@@ -1,17 +1,31 @@
-# Structured Programming Language (SPL)
+SPL Assignment — C Programming
 
-This repository contains my Structured Programming Language (SPL) practice and assignment solutions.
+This repository contains my Structured Programming Language (SPL) assignment, including C programming concepts and practice exercises completed through the W3Schools C Tutorial.
 
-## Topics Covered
-- Variables
-- Syntax
+📚 Topics Covered
+
+- C Syntax, Variables & Data Types
 - Operators
-- Conditions
+- Input & Output
+- Conditional Statements
 - Loops
-- W3Schools Practice Exercises
+- Arrays & Strings
+- Functions
+- Basic Problem Solving
 
-## Course
-Structured Programming Language (SPL)
+🎯 Objective
 
-## Assignment
-W3Schools Foundations to Loop Exercises
+The main objective is to develop a strong foundation in C programming, structured programming, logical thinking, and problem-solving skills through regular practice.
+
+🛠️ Tools & Resources
+
+Language: C
+Editor: Visual Studio Code
+Compiler: GCC
+Learning Resource: W3Schools
+Version Control: Git & GitHub
+
+---
+
+Student: Polok Sarker
+Department: Computer Science & Engineering
